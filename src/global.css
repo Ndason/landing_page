@@ -1,0 +1,4 @@
+/* FILEPATH: /C:/Users/User/Desktop/tail/client/src/global.css */
+@import url('./index.css');
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
